@@ -3,6 +3,7 @@
  <div style="float:right;width:45%" >
 <img align="right"alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif"/>
   </div>
+ <pre></pre>
   <div style="float:left;width:45%" >
  <h4>Hi 👋, I'm Sasidhar Pinjala</h4>
 <h4>A passionate software developer from India</h4>
