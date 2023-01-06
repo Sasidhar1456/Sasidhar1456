@@ -1,9 +1,10 @@
 <h3>Hi 👋, I'm Sasidhar Pinjala</h3>
 <h3>A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif"/>
+
 <h3>📫 How to reach me:<a href="https://www.linkedin.com/in/sasidhar-pinjala-b09342217/">Link</a></h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
