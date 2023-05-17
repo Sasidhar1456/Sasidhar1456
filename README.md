@@ -7,7 +7,7 @@
   <div style="float:left;width:45%" >
  <h4>Hi 👋, I'm Sasidhar Pinjala</h4>
 <h4>A passionate software developer from India</h4>
-<h4>📫 How to reach me:<a href="https://www.linkedin.com/in/pinjala-sasidhar-b09342217/">Link</a></h4>
+<h4>📫 How to reach me:<a href="https://www.linkedin.com/in/pinjala-sasidhar-b09342217/" target="_blank">Link</a></h4>
 
 
 
